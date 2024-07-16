@@ -1,0 +1,4 @@
+<div class="container">
+  <app-header (onShowTable)="hideBtnClick($event)"></app-header>
+  <app-student-list [hidden]="!isShowTable"></app-student-list>
+</div>

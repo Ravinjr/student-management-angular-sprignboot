@@ -1,0 +1,20 @@
+export const STUDENTS=[
+    {
+        id:1,
+        studentName:'kavindu',
+        age:'24',
+        address:'matara'
+    },
+    {
+        id:2,
+        studentName:'kavindu',
+        age:'24',
+        address:'matara'
+    },
+    {
+        id:3,
+        studentName:'kavindu',
+        age:'24',
+        address:'matara'
+    },
+]

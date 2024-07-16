@@ -1,0 +1,8 @@
+<button class="btn show-students" (click)="onBtnClick()">
+  <span *ngIf = "isButtonClick">
+    Hide students
+  </span>
+  <span *ngIf = "!isButtonClick">
+    Show students
+  </span>
+</button>
